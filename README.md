@@ -7,3 +7,6 @@
 - 
     3. [多个目录多个源文件](Demo3/CMakeLists.txt)
         - [子目录cmake配置](Demo3/math/CMakeLists.txt)
+
+- 4. [自定义编译选项](Demo4/CMakeLists.txt)
+- 5. [安装和测试](Demo5/CMakeLists.txt)
