@@ -1,0 +1,9 @@
+mkdir build
+
+cmake -DCMAKE_INSTALL_PREFIX=/tmp/my_sort ..
+
+make 
+
+make install
+
+./ms_test
