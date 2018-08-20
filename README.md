@@ -13,3 +13,4 @@
 - 4. [自定义编译选项](Demo4/CMakeLists.txt)
 - 5. [安装和测试](Demo5/CMakeLists.txt)
 - 6. [共享库和静态库安装](Demo6)
+- 7. [使用非标准路径下的共享库和静态库](Demo7)
